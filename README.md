@@ -18,7 +18,7 @@ Um jogo divertido baseado no clássico filme **"Detona Ralph"**, desenvolvido em
 ## 🎯 Funcionalidades  
 
 - 🏆 **Sistema de Pontuação**: acompanhe seus pontos enquanto joga.
--  :alarm_clock: **Tempo Limitado**: comtempo de jogo limitado.
+-  :alarm_clock: **Tempo Limitado**: com tempo de jogo limitado.
 - 🎯 **Objetivo**: clique no quadrado onde o Ralph aparece para marcar pontos.  
 - ⚡ **Dinâmica divertida**: agilidade e reflexo são a chave para vencer.  
 
